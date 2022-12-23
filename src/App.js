@@ -27,7 +27,6 @@ const App = () => {
         <Route path="/subservies" element={<SubServies />} />
         <Route path="/main_servies_record" element={<MainServiesRecords />} />
         <Route path="/sub_servies_record" element={   <SubServiesRecords/>} />
-     
         <Route path="/edit_main_servies/:id" element={<EditMainServies />} />
         <Route path="/ edit_sub_servies/:id" element={ <EditSubServies/>} />
        
