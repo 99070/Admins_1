@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "firstname": "ayush",
+      "lastname": "arya",
+      "email": "ayusharya0506@gmail.com",
+      "address": "vijay nagar",
+      "city": "Indore",
+      "number": "9876543210",
+      "password": "1234567",
+      "confirm_password": "1234567",
+      "id": 1
+    },
+    {
+      "firstname": "ayush",
+      "lastname": "arya",
+      "email": "ayusharya0506@gmail.com",
+      "address": "shajapur",
+      "city": "Indore",
+      "number": "9876543210",
+      "password": "1234567",
+      "confirm_password": "1234567",
+      "id": 2
+    },
+    {
+      "firstname": "ayush",
+      "lastname": "arya",
+      "email": "ayusharya0506@gmail.com",
+      "address": "shajapur",
+      "city": "Indore",
+      "number": "9876543210",
+      "password": "1234567",
+      "confirm_password": "1234567",
+      "id": 3
+    },
+    {
+      "firstname": "ayush",
+      "lastname": "arya",
+      "email": "ayusharya0506@gmail.com",
+      "address": "shajapur",
+      "city": "Indore",
+      "number": "9876543210",
+      "password": "1234567",
+      "confirm_password": "1234567",
+      "id": 4
+    },
+    {
+      "firstname": "ayush",
+      "lastname": "arya",
+      "email": "ayusharya0506@gmail.com",
+      "address": "shajapur",
+      "city": "Indore",
+      "number": "9876543210",
+      "password": "1234567",
+      "confirm_password": "1234567",
+      "id": 5
+    },
+    {
+      "firstname": "ayush",
+      "lastname": "arya",
+      "email": "ayusharya0506@gmail.com",
+      "address": "shajapur",
+      "city": "Indore",
+      "number": "9876543210",
+      "password": "1234567",
+      "confirm_password": "1234567",
+      "id": 6
+    },
+    {
+      "firstname": "ayush",
+      "lastname": "arya",
+      "email": "ayusharya0506@gmail.com",
+      "address": "shajapur",
+      "city": "Indore",
+      "number": "9876543210",
+      "password": "1234567",
+      "confirm_password": "1234567",
+      "id": 7
+    }
+  ]
+}

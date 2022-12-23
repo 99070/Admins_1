@@ -1,0 +1,3 @@
+json-server --watch login.json ---port 3500
+json-server --watch vendor.json --port 3600
+json-server --watch main_servies.json --port 4000
